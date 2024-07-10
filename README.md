@@ -100,7 +100,3 @@ Contributing
 
 Contributions are welcome! If you have any improvements or suggestions, please open an issue or create a pull request.
 
-License
--------
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
